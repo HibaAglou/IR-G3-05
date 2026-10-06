@@ -2,7 +2,14 @@
 <object id="zcVz5tYAcuvm" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Personas participantes]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[Francisco Canela: Gerente de la cooperativa y contacto principal para el proyecto
+
+Julián Canela Ramos: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.
+Rafael David Caro Medina: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.
+Daniel Lorenzo Casas: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.
+Noelia Páez Páez: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.
+Juan Quintana Fernández: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.
+Hiba Aglou: Estudiante y miembro del equipo de análisis y desarrollo del proyecto.]]></markdownProperty>
   </properties>
   <children/>
 </object>

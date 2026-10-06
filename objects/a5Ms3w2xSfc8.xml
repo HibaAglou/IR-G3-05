@@ -2,7 +2,16 @@
 <object id="a5Ms3w2xSfc8" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Glosario de términos del dominio del problema]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[Almazara: Fábrica o industria agroalimentaria donde se reciben las aceitunas y se transforman mediante procesos mecánicos para obtener el aceite de oliva.
+Campaña de recolección: Periodo del año (habitualmente entre otoño y primavera) en el que se cosecha la aceituna en el campo y se procesa en la almazara para producir el aceite. 
+Cooperativa: Sociedad formada por agricultores (socios) que se unen de forma voluntaria para gestionar en común la producción, transformación y comercialización de su aceite de oliva, buscando mejores precios y beneficios compartidos. 
+Cooperativa de segundo grado: Entidad superior formada por la unión de varias cooperativas de base, creada para ganar poder de negociación, optimizar costes y comercializar el aceite a mayor escala. 
+ERP (Enterprise Resource Planning): Sistema informático de gestión integrada que centraliza y controla todos los procesos de la almazara, desde la contabilidad y la administración hasta el stock y la comercialización. 
+Gestión de incidencias: Proceso de registro, seguimiento y resolución de cualquier anomalía o imprevisto (averías en maquinaria, errores de pesaje, incidencias de calidad, etc.) que surja en el día a día. 
+Molturación: Fase del proceso de elaboración en la que se trituran y muelen las aceitunas para romper sus células y facilitar la posterior extracción del aceite.
+Operario: Trabajador cualificado encargado de manejar las máquinas, supervisar las líneas de producción y realizar las tareas físicas y técnicas en la fábrica.
+Patio de recepción: Zona exterior de la almazara donde llegan los remolques con las aceitunas para realizar el pesaje, la toma de muestras, la limpieza y la clasificación inicial según su calidad. 
+Trazabilidad: Sistema de control y registro que permite seguir el rastro de la aceituna y del aceite en todas sus etapas, garantizando su origen y seguridad alimentaria.]]></markdownProperty>
   </properties>
   <children/>
 </object>

@@ -2,7 +2,15 @@
 <object id="MZHmoReoRNF8" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Organizaciones participantes]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[Nombre: La Purisima de Herrera SCA (Sociedad Cooperativa Andaluza) 
+Dirección: Ctra. Estepa, 9, 41567 Herrera (Sevilla), España 
+Teléfono: +34 954 01 31 53 
+Correo electrónico: lapurisima@oleoestepa.com 
+Sitio web del grupo: www.oleoestepa.com
+
+Nombre: IR-G3-BB-05
+Dirección: Av. de la Reina Mercedes, s/n, 41012 Sevilla
+]]></markdownProperty>
   </properties>
   <children/>
 </object>

@@ -2,7 +2,21 @@
 <object id="7HbFfySLhQCT" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Introducción al dominio del problema]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[El principal inconveniente en la gestión actual de la fábrica es la falta de integración tecnológica entre el trabajo en planta y las oficinas. Aunque la cooperativa dispone de un programa informático (ERP) específico para el sector agrario que incluye módulos de contabilidad, gestión de cultivos y trazabilidad, este se encuentra actualmente infrautilizado para el trabajo diario de fábrica. La limitación principal reside en que las interfaces y herramientas del sistema actual no están diseñadas para el entorno industrial ni adaptadas al ritmo de los operarios, lo que impide registrar los datos operativos y las incidencias en el momento exacto en que ocurren.
+
+Esta situación genera una serie de dificultades operativas en el día a día:
+
++ Retrasos en la trazabilidad: La anotación manual de la entrada de aceituna, la procedencia y las variedades de los agricultores ralentiza el seguimiento detallado de los lotes. 
+
++ Falta de registro de incidencias: Las averías mecánicas, los atascos o los problemas de limpieza en las líneas a menudo no se documentan al instante, lo que dificulta una reacción rápida y preventiva. 
+
++ Sobrecarga administrativa: Al final de cada jornada, la gerencia tiene que recopilar y revisar manualmente los datos acumulados, duplicando las tareas de gestión. 
+
++ Control complejo del almacenamiento: La monitorización del nivel de los tanques y de las salidas de aceite carece de un soporte unificado en planta.
+
+Todas estas dificultades juntas provocan que la cooperativa pierda eficacia y agilidad justo en la época del año en la que más se trabaja: la campaña de recolección. Como los datos no se pueden apuntar directamente donde ocurren y se depende demasiado del papel o de procesos manuales, la empresa se arriesga a cometer errores humanos, a tomar decisiones tarde y a saturar a la dirección con tareas de oficina innecesarias, lo que frena el buen funcionamiento de la fábrica.
+
+En definitiva, el problema principal de la cooperativa no es cuánto produce, sino la desconexión tecnológica entre la fábrica y la oficina. Por ello, analizar bien sus necesidades y diseñar una herramienta digital a medida es clave para lograr una gestión más ágil, moderna y totalmente adaptada al trabajo real de los empleados y de la gerencia.]]></markdownProperty>
   </properties>
   <children/>
 </object>
