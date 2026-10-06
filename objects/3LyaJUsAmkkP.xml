@@ -16,5 +16,7 @@ Como objetivos más específicos, queremos conseguir lo siguiente:
 
 + Prevenir averías: Utilizar los datos del programa para adelantarse a los problemas mecánicos y evitar que las máquinas de la fábrica se paren durante la campaña.]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="dRnpW7P7KtZW"/>
+  </children>
 </object>

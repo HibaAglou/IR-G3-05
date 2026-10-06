@@ -12,5 +12,7 @@ El tercer módulo aborda el control de tanques, almacén y expediciones, asegura
 
 Este enfoque permitirá cubrir todo el ciclo operativo en planta, dotando a la cooperativa de una herramienta moderna y adaptada a las necesidades reales de sus operarios y de la gerencia.]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="FAAr4Hk2dYYA"/>
+  </children>
 </object>
