@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <stringProperty name="plural-form" category="detail"><![CDATA[]]></stringProperty>
     <stringProperty name="synonyms" category="detail"><![CDATA[]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[El AOVE es el acrónimo de Aceite de Oliva Virgen Extra]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Aceite de Oliva Virgen Extra]]></markdownProperty>
     <fileProperty name="image" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object" traceType=":Proteus-dependency"/>

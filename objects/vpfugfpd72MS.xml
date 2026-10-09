@@ -13,7 +13,7 @@
     <stringProperty name="phone-number" category="detail"><![CDATA[+34 954 01 31 53]]></stringProperty>
     <stringProperty name="email" category="detail"><![CDATA[lapurisima@oleoestepa.com]]></stringProperty>
     <urlProperty name="web" category="detail"><![CDATA[https://www.oleoestepa.com]]></urlProperty>
-    <fileProperty name="logo" category="detail" tooltip="file-info"><![CDATA[La Purisima de Herrera.jpeg]]></fileProperty>
+    <fileProperty name="logo" category="detail" tooltip="file-info"><![CDATA[la-purisima (1).jpeg]]></fileProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
